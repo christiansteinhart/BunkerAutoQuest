@@ -1,0 +1,6 @@
+## Interface: 60200
+## Title: BunkerAutoQuest
+## Notes: Immediatelly accepts and finishes the Bunker Quest for Scraps
+embeds.xml
+
+BunkerAutoQuest.lua
